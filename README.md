@@ -1,5 +1,5 @@
 <!-- headers -->
-# Simple static nginx server
+# Page Hit Counter
 A sample application which counts hits to a page. It's an example Flask python web application that uses a Redis database.
 
 ## Run Using Docker
