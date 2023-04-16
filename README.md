@@ -7,11 +7,11 @@ A sample application which counts hits to a page. It's an example Flask python w
 ```
 docker pull emirhantulimat/page-hit-counter:latest
 
-docker run -it --rm -p 8000:5000 emirhantulimat/page-hit-counter:latest
+docker compose up
 ```
 <br>
 
-Our server is ready now, [click here](http://localhost:5000/) to access the server
+Our server is ready now, [click here](http://localhost:8000/) to access the server
 
 <br>
 
